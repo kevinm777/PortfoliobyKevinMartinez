@@ -1,0 +1,15 @@
+body{
+  background-color:#C4828B;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+color: white;
+}
+hr{
+   padding:6px;
+   background-color:white;
+}
+p{
+  font-family: 'Anton', sans-serif;
+  color:white;
+}
